@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Bienvenido%20a%20mi%20Repositorio&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-<h1>👨‍💻 Manolo</h1>
+<h1>👨‍💻 Emmanuel</h1>
 
 <h3>Desarrollador Full Stack | PHP | MySQL | C# | JavaScript</h3>
 
